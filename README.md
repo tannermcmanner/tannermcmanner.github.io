@@ -1,13 +1,13 @@
-#### How to use website
+### How to use website
 
 [My Website](https://tannermcmanner.github.io/)
 
-### Open website:
+#### Open website:
 - Go to index.html
 - Right click anywhere
 - Click "open with live server"
 
-### Adding to website:
+#### Adding to website:
 - Copy previous accordion html from code
 - Ensure that collapse id are unique ex. *"collapse4"*
 - Go to JsFiddle, and fork a previous working one
@@ -18,7 +18,7 @@
 - Change title of accordion
 - tada
 
-### Deploy website:
+#### Deploy website:
 - Make sure all tabs are saved
 - Go to Source Control tab
 - Stage all changes (plus button next to 'changes')
